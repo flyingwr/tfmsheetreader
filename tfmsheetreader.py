@@ -1,3 +1,5 @@
+"""Read records spreadsheets of Transformice"""
+
 from typing import Dict
 
 import gspread
@@ -10,7 +12,7 @@ def read_spreadsheet(key: str) -> Dict:
 	"""Read a spreadsheet by key, which can be found in their URL: https://docs.google.com/spreadsheets/d/<KEY>
 
 	:param str key: Key of a spreadsheet
-	:returns: a dictionary with all records read
+	:returns: A dictionary with all records read
 		>>> {
 			"@123": {
 				"left": ("Dummy", "20.21s"),
