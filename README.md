@@ -1,5 +1,5 @@
 <h1>tfmsheetreader</h1>
-<p>Python program that reads <a href="https://docs.google.com/spreadsheets/d/1xoPZXT5apgKm1Z5J-YEv-sXTQ6BjB0vnPgrWLxhRpaU">records spreadsheet of Transformice</a></p>
+<p>Python program that reads <a href="https://docs.google.com/spreadsheets/d/1xoPZXT5apgKm1Z5J-YEv-sXTQ6BjB0vnPgrWLxhRpaU">records spreadsheet of Transformice</a> using <a href="https://github.com/burnash/gspread">Google Sheets Python API</a></p>
 
 ---
 
