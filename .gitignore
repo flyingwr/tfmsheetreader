@@ -1,4 +1,4 @@
-*.json
+service_account_credentials.json
 Makefile
 src/
 
