@@ -9,7 +9,7 @@ See <a href="https://cloud.google.com/docs/authentication/production#create_serv
 
 ---
 
-#### Requirements (Python)</a>
+#### Requirements (Python 3.8+)</a>
 ```
 gspread
 ```
